@@ -1,4 +1,4 @@
-//This program generates 50,000 randum integers between 1 and 6 then prints
+//This program generates 50,000 random integers between 1 and 6 then prints
 //the amount of each number generated to the screen.
 #include <cstdlib>
 #include <iostream>
